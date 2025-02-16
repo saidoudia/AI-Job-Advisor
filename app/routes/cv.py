@@ -1,4 +1,4 @@
-# app/routes/cv.py
+
 from fastapi import APIRouter
 
 router = APIRouter()

@@ -1,4 +1,4 @@
-# app/routes/motivation.py
+
 from fastapi import APIRouter
 
 router = APIRouter()
